@@ -22,6 +22,7 @@ lib-cov
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
+build/cache/webpack/client-production
 
 # Dependency directories
 node_modules/
